@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d17facf1e966244dbebba4913b7b533, type: 3}
+  m_Name: CardData
+  m_EditorClassIdentifier: 
+  Cards:
+  - suit: 0
+    type: 0
+    texture: {fileID: 2800000, guid: 0101bd7edc235f24a8a1e37673c9da82, type: 3}
+  - suit: 2
+    type: 0
+    texture: {fileID: 2800000, guid: 3f11b188112594345b9849b5f8514f4e, type: 3}
+  - suit: 1
+    type: 0
+    texture: {fileID: 2800000, guid: 6e2620f4cafe3c743ae98ad436e682bb, type: 3}
+  - suit: 3
+    type: 0
+    texture: {fileID: 2800000, guid: 57462d3b0192e834a96a52acc74d7321, type: 3}
+  - suit: 0
+    type: 1
+    texture: {fileID: 2800000, guid: 27944a429d4da5049924d8442fa339e4, type: 3}
+  - suit: 2
+    type: 1
+    texture: {fileID: 2800000, guid: f94c59566ad9a2b4185cb6cc043982dd, type: 3}
+  - suit: 1
+    type: 1
+    texture: {fileID: 2800000, guid: 2c732c37f687da44b95cf95734802d4d, type: 3}
+  - suit: 3
+    type: 1
+    texture: {fileID: 2800000, guid: 08f6fdb13d9c4b44098efa8228a41932, type: 3}
+  - suit: 0
+    type: 2
+    texture: {fileID: 2800000, guid: 67f1fd7b693ab70419ddb5d86168a30f, type: 3}
+  - suit: 2
+    type: 2
+    texture: {fileID: 2800000, guid: 5010af36d2a5a6c438ead705e5af2ca0, type: 3}
+  - suit: 1
+    type: 2
+    texture: {fileID: 2800000, guid: 0b416566c52e58e4686d9dfd046a5cb8, type: 3}
+  - suit: 3
+    type: 2
+    texture: {fileID: 2800000, guid: 9915268b0e12cb6459c9182d81ae49c4, type: 3}
+  - suit: 0
+    type: 3
+    texture: {fileID: 2800000, guid: 4a531313a38c44a4fba182983e606a60, type: 3}
+  - suit: 2
+    type: 3
+    texture: {fileID: 2800000, guid: 17fd012572a368944b7dc53b83d43d20, type: 3}
+  - suit: 1
+    type: 3
+    texture: {fileID: 2800000, guid: fa7e8f32835ff164a8813ee131b94307, type: 3}
+  - suit: 3
+    type: 3
+    texture: {fileID: 2800000, guid: b660149f7e2b1e94484df424c15041a0, type: 3}
+  - suit: 0
+    type: 4
+    texture: {fileID: 2800000, guid: a3c6a801f4dc44d4e9f2f1540a0e9c18, type: 3}
+  - suit: 2
+    type: 4
+    texture: {fileID: 2800000, guid: ffd105370972e7142b289f3e6d5db406, type: 3}
+  - suit: 1
+    type: 4
+    texture: {fileID: 2800000, guid: da56e443bc50de34ab35d1b1ee03912f, type: 3}
+  - suit: 3
+    type: 4
+    texture: {fileID: 2800000, guid: d9f1fbbd187d626438eed03a07af4226, type: 3}
+  - suit: 0
+    type: 5
+    texture: {fileID: 2800000, guid: 84e868bd84b772e448ade7af70300791, type: 3}
+  - suit: 2
+    type: 5
+    texture: {fileID: 2800000, guid: 36a54c50e4bf5dd46a338ed634932f86, type: 3}
+  - suit: 1
+    type: 5
+    texture: {fileID: 2800000, guid: b25df059c3f423d46be533e8a7ae9748, type: 3}
+  - suit: 3
+    type: 5
+    texture: {fileID: 2800000, guid: 553ce5f28c617c941a4f7a09464bfc02, type: 3}
+  - suit: 0
+    type: 6
+    texture: {fileID: 2800000, guid: 4aca17b3473675545b3af4b242aa6edc, type: 3}
+  - suit: 2
+    type: 6
+    texture: {fileID: 2800000, guid: 44b1ec3c04809e64c9db80eecbefb3fc, type: 3}
+  - suit: 1
+    type: 6
+    texture: {fileID: 2800000, guid: e653024f18ce75b48a31d008f9f3f3fb, type: 3}
+  - suit: 3
+    type: 6
+    texture: {fileID: 2800000, guid: a5688ee8bef9264429669a8085fea0f3, type: 3}
+  - suit: 0
+    type: 7
+    texture: {fileID: 2800000, guid: 003b429161af6384ab627f632875fb1b, type: 3}
+  - suit: 2
+    type: 7
+    texture: {fileID: 2800000, guid: c21237c03c7d1df4783f0a84d4468d33, type: 3}
+  - suit: 1
+    type: 7
+    texture: {fileID: 2800000, guid: 73311f75950fe93409896d1881375478, type: 3}
+  - suit: 3
+    type: 7
+    texture: {fileID: 2800000, guid: 033c162119fec814daf0d11395031eae, type: 3}
+  - suit: 0
+    type: 8
+    texture: {fileID: 2800000, guid: c53fe0faf7e8f77428fa2de43fae8a66, type: 3}
+  - suit: 2
+    type: 8
+    texture: {fileID: 2800000, guid: 2a6ea87b102c68742a51dd2bf992661e, type: 3}
+  - suit: 1
+    type: 8
+    texture: {fileID: 2800000, guid: dd8a94a9aa45adc4a960911050243d19, type: 3}
+  - suit: 3
+    type: 8
+    texture: {fileID: 2800000, guid: 546c1336a3e13bf449d76b51684b72e3, type: 3}
+  - suit: 0
+    type: 12
+    texture: {fileID: 2800000, guid: 66c44ee7281f4894785326a66e0d47b2, type: 3}
+  - suit: 2
+    type: 12
+    texture: {fileID: 2800000, guid: 6c6618eb83bbf2b4e9bd23bb78e960ac, type: 3}
+  - suit: 1
+    type: 12
+    texture: {fileID: 2800000, guid: 159a00d2ca8f100498c4a8404d8e377a, type: 3}
+  - suit: 3
+    type: 12
+    texture: {fileID: 2800000, guid: fc7d93683d1f17b4c83ae6aec2b7fc0c, type: 3}
+  - suit: 0
+    type: 9
+    texture: {fileID: 2800000, guid: 53eeb907a95b47749a40f591aaa99be8, type: 3}
+  - suit: 2
+    type: 9
+    texture: {fileID: 2800000, guid: bcc2b2075ecbcdf42a04394ea501f964, type: 3}
+  - suit: 1
+    type: 9
+    texture: {fileID: 2800000, guid: f2b930c6f9c6ef44d80ebf4534001e45, type: 3}
+  - suit: 3
+    type: 9
+    texture: {fileID: 2800000, guid: 1fc91a9d11878004c8d16cbd189e96e5, type: 3}
+  - suit: 0
+    type: 11
+    texture: {fileID: 2800000, guid: f950cf97877b26e42bad0676d10d9aee, type: 3}
+  - suit: 2
+    type: 11
+    texture: {fileID: 2800000, guid: b2e4b80b32c07a44babd97e26c8a43d2, type: 3}
+  - suit: 1
+    type: 11
+    texture: {fileID: 2800000, guid: 5f4ba516f9daf30408725ada2bb67596, type: 3}
+  - suit: 3
+    type: 11
+    texture: {fileID: 2800000, guid: 326c5e6084c9d1b4ba36691feb092f7f, type: 3}
+  - suit: 0
+    type: 10
+    texture: {fileID: 2800000, guid: 5b8a74d2708b5724788ca96d3bbefdb3, type: 3}
+  - suit: 2
+    type: 10
+    texture: {fileID: 2800000, guid: d33ef2db53a903d47830496cc6a26f71, type: 3}
+  - suit: 1
+    type: 10
+    texture: {fileID: 2800000, guid: 6518cd5a0313a3d459f4113ca59162a5, type: 3}
+  - suit: 3
+    type: 10
+    texture: {fileID: 2800000, guid: 68e2eff7376dd504ba1faa6660f86b72, type: 3}
