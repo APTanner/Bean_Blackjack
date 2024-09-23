@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bean Man
-  m_Shader: {fileID: -6465566751694194690, guid: c195e29ee9c6f6547b8571d95f128b6a,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: c195e29ee9c6f6547b8571d95f128b6a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -109,7 +108,7 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _Fresnel_Power: 3.39
+    - _Fresnel_Power: 45.52
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
